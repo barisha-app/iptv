@@ -1,8 +1,8 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="ULUSAL":http-user-agent="",TRT 1
+#EXTINF:-1 tvg-name="SAVAS AKYUZ"tvg-id="TRT1.tr"tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png"group-title="ULUSAL":http-user-agent="",SAVAS AKYUZ
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png"group-title="ULUSAL":http-user-agent="",ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1756289322&st=sRspMu3s-C2ZcWjQznPtcQ&sid=7p0szuj1t1a4&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1756540953&st=G7sfhVZewzl4J_xxMEFMOg&sid=7pb73yolit3t&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:-1 tvg-name="A2 HD"tvg-id="A2TV.tr"tvg-logo="https://i.ibb.co/7WTsG83/a2.png"group-title="ULUSAL":http-user-agent="",A2
 https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1756289427&st=hH5VQ4eZ8hOI5wiVWAgAAQ&sid=7p0t5giz7g77&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
 #EXTINF:-1 tvg-name="STAR tv"tvg-id="EuroStar.tr"tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png"group-title="ULUSAL":http-user-agent="",STAR tv
